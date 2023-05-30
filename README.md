@@ -28,7 +28,7 @@ We created an ERD to help us identify table schemas for each table and allows us
 
 ![Crowdfunding_ERD](https://github.com/AlexBolinger58/Crowdfunding_ETL/assets/126418725/deda252e-da38-4164-8d12-212e82db408b)
 
-## Step 4b
+### Step 4b
 Next we used the database schema to create the crowdfunding database and ensure our data was uploaded correctly
 
 <img width="1624" alt="Import_Data_Processes_PgAdmin" src="https://github.com/AlexBolinger58/Crowdfunding_ETL/assets/126418725/03f7f187-1811-4d28-b5a7-6dc1e3cf1b78">
